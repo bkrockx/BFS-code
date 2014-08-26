@@ -1,4 +1,4 @@
 BFS-code
 ========
 
-( chef and digit jumps solved using bfs of codechef june challenge
+( chef and digit jumps solved using bfs in codechef june challenge
